@@ -28,6 +28,6 @@ spec:
         - secretRef:
             name: db-secret
         name: app-deployment
-        image: harbor.dev.afsmtddso.com/operlasierra-harbor-project/app:971c881-69ee421
+        image: harbor.dev.afsmtddso.com/operlasierra-harbor-project/app:f7206e2-44c588b
         ports:
         - containerPort: 5000
